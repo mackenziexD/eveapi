@@ -1,5 +1,5 @@
 {
-    "name": "laravelevetools/eve-api",
+    "name": "helious/eve-api",
     "description": "Collections of abstract laravel jobs to interact with eves online ESI endpoints",
     "license": "GPL-2.0-or-later",
     "type": "library",
@@ -10,7 +10,7 @@
     },
     "minimum-stability": "stable",
     "require": {
-        "laravel/framework": "^8.40|^9.0|^10.0|^11.0",
+        "laravel/framework": "^8.40|^9.0|^10.0|^11.0|^12.0",
         "eveseat/eseye": "^3.0"
     },
     "require-dev": {
